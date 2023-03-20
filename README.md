@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">My GitHub Overview</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royokite&theme=juicyfresh" alt="royokite" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royokite&theme=juicyfresh&no-frame=true" alt="royokite" /></a> </p>
 
 <!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
 <p align="left" style="float: left;"> 
