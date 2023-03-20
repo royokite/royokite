@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 
 <h2 align="left">My GitHub Overview</h2>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royokite&theme=juicyfresh" alt="royokite" /></a> </p>
+
+<!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
+<p align="left" style="float: left;"> 
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/royokite" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Roy Okite's LinkedIn" /></a> 
+  <span>&nbsp;</span>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=royokite&theme=radical)](https://git.io/streak-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=royokite&show_icons=true&locale=en&theme=aura_dark" alt="royokite" /></p>
