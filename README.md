@@ -25,6 +25,10 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/royokite" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Roy Okite's LinkedIn" />
   </a> 
   <span>&nbsp;</span>
+  <!-- Website -->
+  <a href="https://royokite.netlify.app" target="blank"><img src="https://img.shields.io/badge/website-FF0000?style=for-the-badge&logo=msi&logoColor=white&message=Portfolio" alt="Roy Okite's Website" />
+  </a> 
+  <span>&nbsp;</span>
 </p>
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=royokite&theme=radical&hide_border=true)](https://git.io/streak-stats)
  -->
