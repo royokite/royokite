@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com/?user=royokite&theme=radical&hide_border=true" alt="roy stats" />
 </p>
 
-<h2 align="center">Technologies/Frameworks/Design Tools</h2>
+<h2 align="center">Technologies | Frameworks | Design Tools</h2>
 
 <p style="margin-top:10px" align="center">   
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
